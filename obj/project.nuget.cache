@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g1zE4caF4Rq0b3/8X0RmoLbGK/zR3ERq7Vesga6KtJZtT8WY99lrlTw317jiV/NjWL8d8swffmaYYHmH6GSB6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ailto\\OneDrive\\Documentos\\labs\\Lab1_DigitalInovation\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
